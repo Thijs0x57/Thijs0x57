@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![LinkedIn_URL](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&url=https://www.linkedin.com/in/thijs-wijnen/)
+![LinkedIn_URL](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fthijs-wijnen)
 
 ![Twitter URL](https://img.shields.io/twitter/url?label=My%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FThijs0x57)
 <!--
