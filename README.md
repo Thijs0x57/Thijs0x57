@@ -49,7 +49,7 @@
         <img src="https://simpleicons.org/icons/typescript.svg" alt="typescript" width="40" height="40" /> </a>
     <a href="https://www.intigriti.com" target="_blank">
         <img src="https://simpleicons.org/icons/intigriti.svg" alt="intigriti" width="40" height="40" /> </a>
-    <img src="https://simpleicons.org/icons/windowsterminal-009688.svg" alt="windows temrinal" width="40" height="40" /> </a>
+    <img src="https://simpleicons.org/icons/windowsterminal.svg" alt="windows temrinal" width="40" height="40" /> </a>
     
 </p>
 
