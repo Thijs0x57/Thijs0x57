@@ -13,7 +13,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="thijs0x57" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/thijs-wijnen" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="thijs-wijnen" height="30" width="40" />
+        <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="thijs-wijnen" height="30" width="40" />
     </a>
 </p>
 
