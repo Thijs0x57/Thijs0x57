@@ -5,8 +5,6 @@
     <a href="https://twitter.com/thijs0x57" target="blank"><img src="https://img.shields.io/twitter/follow/thijs0x57?logo=twitter&style=for-the-badge" alt="thijs0x57" />
 </p>
 
-- 🔭 I’m currently working on [test](link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://dev.to/thijs0x57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="thijs0x57" height="30" width="40" />
