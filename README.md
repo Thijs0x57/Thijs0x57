@@ -5,19 +5,6 @@
     <a href="https://twitter.com/thijs0x57" target="blank"><img src="https://img.shields.io/twitter/follow/thijs0x57?logo=twitter&style=for-the-badge" alt="thijs0x57" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://dev.to/thijs0x57" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/devdotto.svg" alt="thijs0x57" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/thijs0x57" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter profile thijs0x57" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/thijs-wijnen" target="blank">
-        <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin of Thijs" height="30" width="40" />
-    </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank">
